@@ -1,4 +1,4 @@
-/.idea
 /node_modules
-nodejs-restful-blog-api.iml
 package-lock.json
+nodejs-restful-blog-api.iml
+/.idea
