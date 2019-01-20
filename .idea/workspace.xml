@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/workspace/MovieMaxSpringBoot" value="PREVIEW" />
+        <entry key="D:/workspace/SpringBootDemo" value="PREVIEW" />
+        <entry key="D:/workspace/demoRestApi/demoRestApi" value="PREVIEW" />
+        <entry key="D:/workspace/gs-accessing-data-jpa/initial" value="PREVIEW" />
+        <entry key="D:/workspace/gs-rest-service-master/complete" value="PREVIEW" />
+        <entry key="D:/workspace/gs-testing-web-master/complete" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="420" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
